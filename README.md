@@ -9,4 +9,5 @@ It now includes steps for GitHub.
 
 Add a new line to see the effect of git pull
 
+Now we are starting to cover undoing and rewriting.
 
